@@ -20,4 +20,7 @@
 .cart-dropdown button {
     margin-top: auto;
 }
-  
+.cart-dropdown .empty-message {
+    font-size: 18px;
+    margin: 50px auto;
+}
